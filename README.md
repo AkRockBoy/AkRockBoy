@@ -31,6 +31,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akrockboy&show_icons=true&locale=en&layout=compact" alt="akrockboy" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akrockboy&show_icons=true&locale=en" alt="akrockboy" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akrockboy&show_icons=true&locale=en" alt="[akrockboy](https://github.com/AkRockBoy)" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akrockboy&" alt="akrockboy" /></p>
