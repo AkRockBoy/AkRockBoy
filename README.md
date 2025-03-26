@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akrockboy" alt="akrockboy" /></a> </p>
 
-- 🌱 I’m currently learning **I’m currently learning Backend Development with Python & Flask, AWS Fundamentals, optimizing DSA, and building scalable APIs.**
+- 🌱**I’m currently learning Backend Development with Python & Flask, AWS Fundamentals, optimizing DSA, and building scalable APIs.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/AkRockBoy](https://github.com/AkRockBoy)
 
