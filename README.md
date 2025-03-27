@@ -276,21 +276,32 @@ My love for coding is like an **infinite loop** – it **never stops!** 😆
 
 
 ## 📊 GitHub Stats
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px;">
 
-<div align="center" style="display: flex; justify-content: center; gap: 10px;">
-
+  <!-- Top Languages -->
   <a href="https://github.com/AkRockBoy">
     <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akrockboy&layout=compact&theme=radical" alt="Top Languages" />
   </a>
-  
+
+  <!-- GitHub Stats -->
   <a href="https://github.com/AkRockBoy">
     <img height="170" src="https://github-readme-stats.vercel.app/api?username=akrockboy&show_icons=true&theme=radical" alt="GitHub Stats" />
   </a>
 
+  <!-- GitHub Streak -->
   <a href="https://github.com/AkRockBoy">
     <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=akrockboy&theme=radical" alt="GitHub Streak" />
   </a>
 
+  <!-- LeetCode Section (Side by Side) -->
+  <a href="https://leetcode.com/lee_fan_ak_the_boss/">
+    <img height="170" src="https://leetcard.jacoblin.cool/lee_fan_ak_the_boss?theme=dark&font=Raleway" alt="LeetCode Questions Solved"/>
+  </a>
+
+
 </div>
+
+
+
 
 
