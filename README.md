@@ -16,7 +16,7 @@ My love for coding is like an **infinite loop** – it **never stops!** 😆
 
 
 ### 🏆 **Coding Achievements**  
-✔️ **900+ DSA Problems** with **1750+ Rating** | ✔️ **2⭐ on CodeChef** | **5⭐ in Problem Solving on HackerRank**  
+✔️ **900+ DSA Problems** with **1750+ Rating @LeetCode** | ✔️ **2⭐ on CodeChef** | **5⭐ in Problem Solving on HackerRank**  
 
 ### 🔥 **What I Do Best**  
 ✅ **Backend Development** – Building **robust & scalable APIs** with **Flask, Node.js**  
@@ -288,10 +288,7 @@ My love for coding is like an **infinite loop** – it **never stops!** 😆
     <img height="170" src="https://github-readme-stats.vercel.app/api?username=akrockboy&show_icons=true&theme=radical" alt="GitHub Stats" />
   </a>
 
-  <!-- GitHub Streak -->
-  <a href="https://github.com/AkRockBoy">
-    <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=akrockboy&theme=radical" alt="GitHub Streak" />
-  </a>
+  
 
   <!-- LeetCode Section (Side by Side) -->
   <a href="https://leetcode.com/lee_fan_ak_the_boss/">
