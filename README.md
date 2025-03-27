@@ -5,47 +5,135 @@
 
 - 🌱**I’m currently learning Backend Development with Python & Flask, AWS Fundamentals, DSA, and building scalable APIs.**
 - 📫 How to reach me [Mail](mailto:anujkumarsingh5669@gmail.com)
+-  📄 Know about my experiences [Resume](https://drive.google.com/file/d/115_KCkEo6OdSmO21RdCQdcC2zCdBAfBG/view?usp=sharing)  
 - 👨‍💻 All of my projects are available at All of my projects are available at [View](https://github.com/AkRockBoy)
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/115_KCkEo6OdSmO21RdCQdcC2zCdBAfBG/view?usp=sharing)  
 - ⚡ Fun fact **I speak Python more fluently than my native language (almost 😆)**
 - 💬 Ask me about **Backend Development (Python, Flask, Node.js) – I promise I won’t return a 500 Internal Server Error. 😆 Cloud Computing (AWS, EC2, S3) – Yes, I talk to the cloud, and no, it doesn’t rain. ☁️ DSA & Competitive Programming – Solving problems faster than my coffee gets cold! ☕⚡ Git & GitHub – Because real developers commit their mistakes. 😜 SQL & Databases – I can optimize queries better than I optimize my sleep schedule. 😂 Debugging – I break things just to fix them again. 🤓**
 - <p align="left"> <img src="https://komarev.com/ghpvc/?username=akrockboy&label=Profile%20views&color=0e75b6&style=flat" alt="akrockboy" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akrockboy" alt="akrockboy" /></a> </p>
 
-<h3 align="left">Connect with me:</h3>
+ <h4>🚀 Connect with Me</h4>
+<table align="center">
+  <tr>
+    <td align="center">
+      <div style="background-color:#E0F7FA; padding:15px; border-radius:10px;">
+        <a href="https://linkedin.com/in/anuj-kumar-singh123/" target="_blank">
+          <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="50" width="50"/>
+          <br><strong style="color:#0077b5;">LinkedIn</strong>
+        </a>
+      </div>
+    </td>
+    <td align="center">
+      <div style="background-color:#F3E5F5; padding:15px; border-radius:10px;">
+        <a href="https://www.codechef.com/users/anujks_123456" target="_blank">
+          <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="CodeChef" height="50" width="50"/>
+          <br><strong style="color:#764abc;">CodeChef</strong>
+        </a>
+      </div>
+    </td>
+    <td align="center">
+      <div style="background-color:#E8F5E9; padding:15px; border-radius:10px;">
+        <a href="https://www.hackerrank.com/ak_the_boss" target="_blank">
+          <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="50" width="50"/>
+          <br><strong style="color:#00ea64;">HackerRank</strong>
+        </a>
+      </div>
+    </td>
+    <td align="center">
+      <div style="background-color:#FFF3E0; padding:15px; border-radius:10px;">
+        <a href="https://www.leetcode.com/lee_fan_ak_the_boss" target="_blank">
+          <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="50" width="50"/>
+          <br><strong style="color:#f89f1b;">LeetCode</strong>
+        </a>
+      </div>
+    </td>
+    <td align="center">
+      <div style="background-color:#E8F5E9; padding:15px; border-radius:10px;">
+        <a href="https://auth.geeksforgeeks.org/user/anujkumarsingh5669" target="_blank">
+          <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="GeeksForGeeks" height="50" width="50"/>
+          <br><strong style="color:#00C853;">GeeksForGeeks</strong>
+        </a>
+      </div>
+    </td>
+    <td align="center">
+      <div style="background-color:#E3F2FD; padding:15px; border-radius:10px;">
+        <a href="https://codeforces.com/profile/your_codeforces_username" target="_blank">
+          <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codeforces.svg" alt="Codeforces" height="50" width="50"/>
+          <br><strong style="color:#1E90FF;">Codeforces</strong>
+        </a>
+      </div>
+    </td>
+    <td align="center">
+      <div style="background-color:#E1F5FE; padding:15px; border-radius:10px;">
+        <a href="https://twitter.com/your_twitter_handle" target="_blank">
+          <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="50" width="50"/>
+          <br><strong style="color:#1DA1F2;">Twitter</strong>
+        </a>
+      </div>
+    </td>
+  </tr>
+</table>
 
-<p align="left">
-<a href="https://linkedin.com/in/anuj-kumar-singh123/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anuj-kumar-singh123/" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/anujks_123456" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="anujks_123456" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/ak_the_boss" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ak_the_boss" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/lee_fan_ak_the_boss" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="lee_fan_ak_the_boss" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/anujkumarsingh5669" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="anujkumarsingh5669" height="30" width="40" /></a>
-</p>
 
-<h3 align="left">Programming Languages:-</h3>
-<!-- Programming Languages -->
-<a href="https://www.python.org/" target="_blank">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-</a>
-<a href="https://www.java.com/" target="_blank">
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
-</a>
-<a href="https://www.cplusplus.com/" target="_blank">
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
-</a>
-<a href="https://www.learn-c.org/" target="_blank">
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
-</a>
+
+
+ <h4> 🔷 Programming Languages </h4>
+<table align="center">
+  <tr>
+    <td align="center">
+      <div style="background-color:#E0F7FA; padding:15px; border-radius:10px;">
+        <a href="https://www.python.org/" target="_blank">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" height="45" width="45"/>
+          <br><strong style="color:#3776AB;">Python</strong>
+        </a>
+      </div>
+    </td>
+    <td align="center">
+      <div style="background-color:#E3F2FD; padding:15px; border-radius:10px;">
+        <a href="https://www.java.com/" target="_blank">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" height="45" width="45"/>
+          <br><strong style="color:#007396;">Java</strong>
+        </a>
+      </div>
+    </td>
+    <td align="center">
+      <div style="background-color:#F3E5F5; padding:15px; border-radius:10px;">
+        <a href="https://www.cplusplus.com/" target="_blank">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" height="45" width="45"/>
+          <br><strong style="color:#00599C;">C++</strong>
+        </a>
+      </div>
+    </td>
+    <td align="center">
+      <div style="background-color:#FFF3E0; padding:15px; border-radius:10px;">
+        <a href="https://www.learn-c.org/" target="_blank">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" height="45" width="45"/>
+          <br><strong style="color:#A8B9CC;">C</strong>
+        </a>
+      </div>
+    </td>
+    <td align="center">
+      <div style="background-color:#E8F5E9; padding:15px; border-radius:10px;">
+        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" height="45" width="45"/>
+          <br><strong style="color:#F7DF1E;">JavaScript</strong>
+        </a>
+      </div>
+    </td>
+  </tr>
+</table>
+
+
+
 
 <br>
 
 <!-- Frontend | Backend | Database Side by Side -->
-<h3 align="left">Frontend | Backend | Database</h3>
-<table>
+<table align = "center">
   <tr>
     <td valign="top">
-      <h4>Frontend</h4>
+      <h4 align = "center">🎨 Frontend</h4>
       <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
         <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"/>
       </a>
@@ -57,7 +145,7 @@
       </a>
     </td>
     <td valign="top">
-      <h4>Backend</h4>
+      <h4 align = "center">🛠️ Backend</h4>
       <a href="https://nodejs.org/" target="_blank">
         <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
       </a>
@@ -72,7 +160,7 @@
       </a>
     </td>
     <td valign="top">
-      <h4>Database</h4>
+      <h4 align = "center">🗄️ Database</h4>
       <a href="https://www.mysql.com/" target="_blank">
         <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
       </a>
@@ -86,11 +174,10 @@
 <br>
 
 <!-- Tools & Editors | Version Control | Cloud Computing -->
-<h3 align="left">Tools & Editors | Version Control | Cloud Computing</h3>
-<table>
+<table align = "center">
   <tr>
     <td valign="top">
-      <h4>Tools & Editors</h4>
+      <h4>🛠️ Tools & Editors</h4>
       <a href="https://code.visualstudio.com/" target="_blank">
         <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
       </a>
@@ -99,7 +186,7 @@
       </a>
     </td>
     <td valign="top">
-      <h4>Version Control</h4>
+      <h4>🔄 Version Control</h4>
       <a href="https://git-scm.com/" target="_blank">
         <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
       </a>
@@ -108,7 +195,7 @@
       </a>
     </td>
     <td valign="top">
-      <h4>Cloud Computing</h4>
+      <h4>☁️ Cloud Computing</h4>
       <a href="https://aws.amazon.com/" target="_blank">
         <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS"/>
       </a>
@@ -118,26 +205,30 @@
 
 <br>
 
-<!-- Subjects in a single sequence -->
-<h3 align="left">Subjects:-</h3>
-<a href="https://en.wikipedia.org/wiki/Data_structure" target="_blank">
-  <img src="https://img.shields.io/badge/Data%20Structures%20&%20Algorithms-FFA500?style=for-the-badge&logo=codeforces&logoColor=white" alt="DSA"/>
-</a>
-<a href="https://en.wikipedia.org/wiki/Operating_system" target="_blank">
-  <img src="https://img.shields.io/badge/Operating%20Systems-008080?style=for-the-badge&logo=linux&logoColor=white" alt="OS"/>
-</a>
-<a href="https://en.wikipedia.org/wiki/Database" target="_blank">
-  <img src="https://img.shields.io/badge/DBMS-4169E1?style=for-the-badge&logo=microsoft-access&logoColor=white" alt="DBMS"/>
-</a>
-<a href="https://en.wikipedia.org/wiki/Computer_network" target="_blank">
-  <img src="https://img.shields.io/badge/Computer%20Networks-FF4500?style=for-the-badge&logo=cisco&logoColor=white" alt="CN"/>
-</a>
-<a href="https://en.wikipedia.org/wiki/Object-oriented_programming" target="_blank">
-  <img src="https://img.shields.io/badge/OOPs-32CD32?style=for-the-badge&logo=java&logoColor=white" alt="OOPs"/>
-</a>
-<a href="https://en.wikipedia.org/wiki/Software_engineering" target="_blank">
-  <img src="https://img.shields.io/badge/Software%20Engineering-FF69B4?style=for-the-badge&logo=gitlab&logoColor=white" alt="Software Engineering"/>
-</a>
+## 📚 Subjects  
+
+<div align="center">
+
+  <table style="border-collapse: collapse; width: 80%; border: 2px solid #6c63ff;">
+    <tr style="background-color: #6c63ff; color: white; font-weight: bold; text-align: center;">
+      <td>⚙️ Operating System</td>
+      <td>🖥️ Computer Networks</td>
+      <td>🛠️ Database Management System</td>
+    </tr>
+    <tr style="background-color: #f4f4f4; text-align: center;">
+      <td>📜 Theory of Computation</td>
+      <td>🔢 Data Structures & Algorithms</td>
+      <td>💡 Object-Oriented Programming</td>
+    </tr>
+    <tr style="background-color: #e6e6fa; text-align: center;">
+      <td>📊 Software Engineering</td>
+      <td>🔌 Computer Organization & Architecture</td>
+      <td>🔐 Cryptography & Network Security</td>
+    </tr>
+  </table>
+
+</div>
+
 
 
 ## 📊 GitHub Stats
