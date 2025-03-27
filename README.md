@@ -3,7 +3,7 @@
 
 
 
-- 🌱**I’m currently learning Backend Development with Python & Flask, AWS Fundamentals, optimizing DSA, and building scalable APIs.**
+- 🌱**I’m currently learning Backend Development with Python & Flask, AWS Fundamentals, DSA, and building scalable APIs.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/AkRockBoy](https://github.com/AkRockBoy)
 
