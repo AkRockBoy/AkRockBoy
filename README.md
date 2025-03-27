@@ -1,17 +1,61 @@
-<h1 align="center">Hi 👋, I'm Anuj</h1>
-<h3 align="center">A Passionate Backend Developer | Python, DSA, Flask & Cloud Computing(AWS)</h3>
+<h1 align="center">👋 Hey, I'm Anuj Kumar Singh</h1>
+<h3 align="center">🎯 Upcoming Assistant System Engineer at TCS</h3>
+
+<p align="center">
+  💻 Passionate Backend Developer | 🚀 Problem Solver | 🏆 Competitive Programmer
+</p>
+
+---
+
+## 🚀 **About Me**  
+I'm a **backend developer** who thrives on **building scalable APIs** and **solving complex DSA problems**.  
+My love for coding is like an **infinite loop** – it **never stops!** 😆  
+
+🌍 **From Sangam Nagri, Prayagraj** – The city of confluence, rich in culture & history.  
+🎓 **Graduated from UIT Prayagraj** – Bachelor’s in **Computer Science & Engineering** with an overall **CGPA of 7.86**.  
 
 
+### 🏆 **Coding Achievements**  
+✔️ **900+ DSA Problems** with **1750+ Rating** | ✔️ **2⭐ on CodeChef** | **5⭐ in Problem Solving on HackerRank**  
 
-- 🌱**I’m currently learning Backend Development with Python & Flask, AWS Fundamentals, DSA, and building scalable APIs.**
-- 📫 How to reach me [Mail](mailto:anujkumarsingh5669@gmail.com)
--  📄 Know about my experiences [Resume](https://drive.google.com/file/d/115_KCkEo6OdSmO21RdCQdcC2zCdBAfBG/view?usp=sharing)  
-- 👨‍💻 All of my projects are available at All of my projects are available at [View](https://github.com/AkRockBoy)
-- ⚡ Fun fact **I speak Python more fluently than my native language (almost 😆)**
-- 💬 Ask me about **Backend Development (Python, Flask, Node.js) – I promise I won’t return a 500 Internal Server Error. 😆 Cloud Computing (AWS, EC2, S3) – Yes, I talk to the cloud, and no, it doesn’t rain. ☁️ DSA & Competitive Programming – Solving problems faster than my coffee gets cold! ☕⚡ Git & GitHub – Because real developers commit their mistakes. 😜 SQL & Databases – I can optimize queries better than I optimize my sleep schedule. 😂 Debugging – I break things just to fix them again. 🤓**
-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=akrockboy&label=Profile%20views&color=0e75b6&style=flat" alt="akrockboy" /> </p>
+### 🔥 **What I Do Best**  
+✅ **Backend Development** – Building **robust & scalable APIs** with **Flask, Node.js**  
+✅ **Cloud Computing** – Deploying apps & managing infra on **AWS, EC2, S3**  
+✅ **Databases** – Writing **optimized queries** & architecting databases with **MySQL, PostgreSQL, MongoDB**  
+✅ **Competitive Programming** – Solving problems **faster than my coffee gets cold!** ☕⚡  
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akrockboy" alt="akrockboy" /></a> </p>
+### 🏓 **Beyond Coding**  
+
+<table align="center">
+  <tr>
+    <td align="center" width="25%">
+      <h3>🏆 Table Tennis</h3>
+      🥈 <b>Silver Medalist</b> – <br> 2021 Zonal Level <br>
+      🥇 <b>Gold Medalist</b> – <br> 2022 & 2023 Zonal Level
+    </td>
+    <td align="center" width="25%">
+      <h3>🏏 Cricket Fan</h3>
+      🔥 <b>Die-hard fan of Rohit Sharma</b> <br> India’s HITMAN 🇮🇳
+    </td>
+    <td align="center" width="25%">
+      <h3>🎮 Gaming Passion</h3>
+      🎯 <b>BGMI Warrior</b> <br> Always ready for the next <br> 🍗 Chicken Dinner!
+    </td>
+    <td align="center" width="25%">
+      <h3>♟️ Other Interests</h3>
+      🏀 <b>Basketball</b> – Love to dunk! <br>
+      ♟️ <b>Chess</b> – Strategic thinker <br>
+      🏸 <b>Badminton</b> – Smash lover <br>
+      🧩 <b>Solving Puzzles</b> – Brain teasers excite me!
+    </td>
+  </tr>
+</table>
+
+
+### ✨ **Fun Fact**  
+💡 **I talk to servers more than humans!** (And guess what? They actually listen. 😆)  
+
+---
 
  <h4>🚀 Connect with Me</h4>
 <table align="center">
